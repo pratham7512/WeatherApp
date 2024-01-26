@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App Screenshot](./assets/screenshot.png)
+![Weather App Screenshot](./assets/Screenshot.png)
 
 ## Tech Stack
 - React.js
